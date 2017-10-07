@@ -87,6 +87,11 @@ header div{
     text-align: center;
     font-size: 2vw;
 }
+
+#bCdiv2 a {
+	color: #c7dce0;
+}
+
 #bCdiv p{
     color: #c7dce0;
     text-align: center;
